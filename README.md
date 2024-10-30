@@ -18,3 +18,5 @@ Fullstack Web Developer
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/noncommunicado"><img src="https://github-readme-stats.vercel.app/api?username=noncommunicado&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="noncommunicado's GitHub stats" /></a>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=noncommunicado&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
