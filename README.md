@@ -18,7 +18,7 @@ Fullstack Web Developer
    </a>
    <a href="https://t.me/noncommunicado" target="_blank" rel="noreferrer">
       <picture> 
-        <img src="https://osx.telegram.org/updates/site/logo.png" width="32" height="32" /> 
+        <img src="https://osx.telegram.org/updates/site/logo.png" width="32" height="32" style="visibility:visible;max-width:100%;" /> 
       </picture>
    </a>
   <a href="https://www.github.com/noncommunicado" target="_blank" rel="noreferrer">
